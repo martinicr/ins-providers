@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "INS.Providers.ConsoleApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "hotReloadEnabled": true
+    }
+  }
+}
